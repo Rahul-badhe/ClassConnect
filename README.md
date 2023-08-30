@@ -1,1 +1,4 @@
-# ClassConnect
+# GuruFinder
+## This is a repository of CDAC final project.
+
+A tutor finder application is a platform that connects students with tutors for one-on-one or group tutoring sessions. The application typically allows students to search for tutors based on subject matter, availability and price. Students can also view tutor profiles that include information about the tutor's experience, education. The application has a user-friendly interface that allows students to easily browse and compare different tutors. The platform also allows tutors to create profiles and showcase their qualifications, experience, and teaching style. Tutors can set their own rates and availability, and the application has a secured way of registration and sign in. Overall, the tutor finder application provides a convenient and reliable way for students to find qualified and experienced tutors who can help them achieve their academic and personal goals.
